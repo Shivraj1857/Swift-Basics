@@ -1,0 +1,6 @@
+
+print("Try programiz.pro")
+func saySwift(){
+    print("swift is used to develope IOS Application")
+}
+saySwift()
